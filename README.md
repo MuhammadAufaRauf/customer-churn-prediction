@@ -153,7 +153,7 @@ Possible extensions include:
 
 ## 12. Author
 
-**Author:** \Muhammad Aufa Rauf\]
+**Author:** Muhammad Aufa Rauf
 
 **Project Type:** Machine Learning Portfolio
 
