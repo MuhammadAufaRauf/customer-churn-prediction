@@ -153,7 +153,7 @@ Possible extensions include:
 
 ## 12. Author
 
-**Author:** \[Your Name\]
+**Author:** \Muhammad Aufa Rauf\]
 
 **Project Type:** Machine Learning Portfolio
 
